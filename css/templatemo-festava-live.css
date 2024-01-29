@@ -801,6 +801,10 @@ strong {
   outline: none;
 }
 
+section{
+  background:#FAEAB1;
+}
+
 .custom-form button[type="submit"] {
   background: var(--custom-btn-bg-color);
   border: none;
