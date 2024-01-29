@@ -503,8 +503,8 @@ strong {
   ABOUT              
 -----------------------------------------*/
 .about-section {
-  background-image: url('../images/edward-unsplash-blur.jpg');
-  background-color: #704010;
+  background-color: #C6A969;
+  background-color: #FAEAB1;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -518,6 +518,7 @@ strong {
 .about-text-wrap {
   position: relative;
 }
+
 
 .about-text-icon {
   background: var(--primary-color);
@@ -548,7 +549,7 @@ strong {
   TICKET               
 -----------------------------------------*/
 .ticket-section {
-  background-image: url('../images/swimming-modified.jpeg');
+  background-color: #FAEAB1;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -584,7 +585,7 @@ strong {
   ARTISTS              
 -----------------------------------------*/
 .artists-section {
-  background-image: url('../images/edward-unsplash-blur.jpg');
+  background-color:#FAEAB1 ;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -600,7 +601,7 @@ strong {
 .artists-image {
   border-radius: var(--border-radius-medium);
   display: block;
-  width: 80%;
+  width: 90%;
 }
 
 .artists-thumb:hover .artists-hover {
@@ -649,8 +650,7 @@ strong {
   SCHEDULE              
 -----------------------------------------*/
 .schedule-section {
-  background-image: url('../images/nainoa-shizuru-unsplash-blur.jpg');
-  background-color: #242424;
+  background-color: #F6F1E9;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -699,15 +699,15 @@ strong {
 }
 
 .schedule-table .pop-background-image {
-  background-image: url('../images/artists/joecalih-UmTZqmMvQcw-unsplash.jpg');
+
 }
 
 .schedule-table .rock-background-image {
-  background-image: url('../images/artists/abstral-official-bdlMO9z5yco-unsplash.jpg');
+
 }
 
 .schedule-table .country-background-image {
-  background-image: url('../images/artists/soundtrap-rAT6FJ6wltE-unsplash.jpg');
+
 }
 
 .table-background-image-wrap {
@@ -1018,3 +1018,5 @@ strong {
     font-size: 20px;
   }
 }
+
+
